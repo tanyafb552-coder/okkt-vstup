@@ -1,0 +1,17 @@
+materials/
+Чернега_план_КР_драфт.md
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+captures/
+*.jks
+*.keystore
+keystore.properties
+docs/pz_build/node_modules/
+docs/diagrams/.gradle/
+docs/diagrams/build/
+docs/pz_build/out/
+~$*
